@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/HyunwooKoh/DPOS-backend
+[submodule "fileServer"]
+	path = fileServer
+	url = https://github.com/HyunwooKoh/file-server
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/HyunwooKoh/DPOS-frontend
